@@ -1,5 +1,3 @@
-下载clash
-
 使用教程 https://ikuuu.eu/user/tutorial?os=linux&client=clash
 
 1. 下载clash
